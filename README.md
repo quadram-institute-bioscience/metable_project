@@ -1,2 +1,4 @@
-# marinomonas_genome
-Support material for Marinomonas genome project
+# MeTABLE.eu Project
+
+Each directory of the repository contains an independent README.
+

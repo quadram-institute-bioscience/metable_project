@@ -1,13 +1,13 @@
 # Metable.eu Assembly Pipeline
 
-This script contains the (Metable)[https://www.facebook.com/Metable/] pipeline for bacterial genome assembly, 
+This script contains the [Metable](https://www.facebook.com/Metable/) pipeline for bacterial genome assembly, 
 developed during the secondment of BMR Genomics to Computer Lab (Cambridge), in collaboration with the
 University of Camerino.
 
 ### Description
 
 For each genome the minimum pipeline consists of assembly using 
-(SPAdes)[http://bioinf.spbau.ru/spades], annotation using (Prokka)[https://github.com/tseemann/prokka].
+[SPAdes](http://bioinf.spbau.ru/spades), annotation using [Prokka](https://github.com/tseemann/prokka).
 The wrapper can be extended to perform best reciprocal best hit analysis from reference gene sets.
 
 
