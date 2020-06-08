@@ -7,7 +7,7 @@ Newbler was developed to assemble 454 reads, performing the assembly of _single 
 FLASH was used to merge paired-end reads:
 
 ```text
-
+flash -m ${MINOVERLAP} -o ${OUTPUT_BASENAME} --threads ${THREADS} file_R1.fq file_R2.fq
 
 ```
 
