@@ -10,6 +10,11 @@ docker pull bryce911/newbler-2.8
 
 ## Usage
 
+- **newAssembly** 
+```text
+newAssembly ProjectName
+```
+
 - **addRun** - to create a Newbler project
 
 ```text
@@ -26,9 +31,13 @@ the program will check the current working directory to see if it is
 a project directory (or the mapping/assembly sub-directory), and use it
 if so.
 
-- **runAssembly** - perform actual assembly
+Example:
 
-```text
-runAssembly [-o projdir] [-nrm] [-p (sfffile | [regionlist:]analysisDir)]... (sfffile | [regionlist:]analysisDir).
+```
+addRun -p ProjectName/ merged_reads.fq 
 ```
 
+- **newbler** - actual assembly step
+```text
+newbler ProjectName
+```
