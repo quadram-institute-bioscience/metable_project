@@ -2,7 +2,9 @@
 
 This script contains the [Metable](https://www.facebook.com/Metable/) pipeline for bacterial genome assembly, 
 developed during the secondment of BMR Genomics to Computer Lab (Cambridge), in collaboration with the
-University of Camerino.
+University of Camerino. The original assemblies (2014) have been performed using [Newbler](newbler.md) after paired-end
+reads merging using [Flash](flash.md). To allow broader use of the script from partners Newbler has been replaced by 
+SPAdes.
 
 ### Description
 
