@@ -1,5 +1,13 @@
 # Newbler
 
+## Docker container
+
+Newbler was commonly available in any NGS core facility operating a Roche 454. It has been long time discontinued, but it's still available as a Docker container, for example from:
+```text
+docker pull bryce911/newbler-2.8
+```
+
+
 ## Usage
 
 - **addRun** - to create a Newbler project
