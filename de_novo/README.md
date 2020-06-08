@@ -50,3 +50,9 @@ PARAMETERS
                 Number of threads for multi-core steps (most notable being assembly).
 ```
 
+# Bibliography
+The pipeline uses:
+- _Magoc T. and Salzberg S._ **FLASH: Fast length adjustment of short reads to improve genome assemblies.** (2011) Bioinformatics.
+- _Bankevich A. et. al_ **SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing** (2012) Journal of Computational Biology.
+- _Seemann T._ **Prokka: Rapid Prokaryotic Genome Annotation** (2014) Bioinformatics.
+- _Birolo G. and Telatin A._ **covtobed: a simple and fast tool to extract coverage tracks from BAM files** (2020) Journal of Open Source Software
