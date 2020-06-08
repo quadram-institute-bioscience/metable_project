@@ -5,7 +5,7 @@ Horizon 2020 EU Project 🇪🇺.
 
 Server:
 
-* [![MeTABLE Genomes](docs/genequery.png)](http://metable.seq.space)
+[![MeTABLE Genomes](docs/genequery.png)](http://metable.seq.space)
 
 Code:
 * [de novo assembly](de_novo)
