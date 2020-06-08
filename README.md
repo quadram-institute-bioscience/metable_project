@@ -4,7 +4,8 @@ Repository of tools developed for the [MeTABLE](https://cordis.europa.eu/article
 Horizon 2020 EU Project 🇪🇺.
 
 Server:
-[![MeTABLE Genomes](genequery.png)](http://metable.seq.space)
+
+* [![MeTABLE Genomes](docs/genequery.png)](http://metable.seq.space)
 
 Code:
 * [de novo assembly](de_novo)
