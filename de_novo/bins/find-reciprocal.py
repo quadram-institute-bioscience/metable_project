@@ -1,4 +1,7 @@
 #! /usr/bin/env python
+
+# Found: https://bitbucket.org/ctb/ngs-course/src/tip/blast/find-reciprocal.py
+
 import sys, csv
 import pprint
 # number below which to discard results
